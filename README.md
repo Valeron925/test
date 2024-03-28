@@ -1,7 +1,8 @@
-#  speciai - adventure
+﻿#  speciai - adventure
 $$
 a^2 = b^2 + c^2
 $$
 ## ЗАГОЛОВОК
 ### ЗАГОЛОВОК
 ## ЗАГОЛОВОК 3
+$ a^2=9$
